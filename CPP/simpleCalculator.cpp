@@ -10,7 +10,8 @@ int main(){
 	if(c == '+'){
 		cout <<a+b<<'\n';
 	}
-
+	else if(c == '-')
+		cout <<a-b<<'\n';
 	return 0;
 }
 
