@@ -2,9 +2,14 @@
 
 
 #### :warning: The main scope of the project is to offer a demo repository, opened for collaboration and contribution from everyone. To be part of the project keep on track with the following:
-#### :arrow_right: The main idea is that, the entire project and it's contents to be written inside a Linux VM or a host Linux based OS. It is strongly recommended to work on a Linux environment using only `bash` shell and `git`, however it is not obligaroty. 
+#### :arrow_right: The main idea is that, the entire project and it's contents to be written inside a Linux VM or a host Linux based OS. It is strongly recommended to work on a Linux environment using only `bash` shell and `git`, however it is not obligaroty.
+
 #### :arrow_right: If you do not have Linux OS or cannot install a Linux VM on a Hypervisor, the project have it's own virtual machine running in the cloud. Send me an email to `karastoqnov.alexandar@gmail.com` with the user name and password to create a new user for you. I will reply back to you when your user is created and additional instructions how to connect to the virtual machine.
-#### :arrow_right: Before starting working on the project please read the [Wiki](https://github.com/karastoyanov/linux-hobby-club/wiki) page. You can find instructions how to setup `git` on your Linux VM. Also, periodically you will find pre-made exercises with descriptions, you can open a new issue with the contents of the assignement and start working on it. However, it is not obligatory to follow the exercises, you can contribute in any way suitable for you, just stick to these simple rules:
+#### :arrow_right: Before starting working on the project please read the [Wiki](https://github.com/karastoyanov/linux-hobby-club/wiki) page. You can find instructions how to setup `git` on your Linux VM. Also, periodically you will find pre-made exercises with descriptions, you can open a new issue with the contents of the assignement and start working on it. 
+
+:exclamation: To begin contributing to the project with one of the pre-made exercises, open [Issues](https://github.com/karastoyanov/linux-hobby-club/issues) and create new issue with the specific task. 
+
+However, it is not obligatory to follow the exercises, you can contribute in any way suitable for you, just stick to these simple rules:
 
 #### ✅ DO'S:
 * Upload your commit in the respective programming language folder. Default languages are Python, Java, JavaScript, C#, C++. In case you would like to upload file in a different language, first create new folder and give it an appropiate name for the language.
