@@ -1,5 +1,5 @@
 ---
-name: Open new assignement and assign it to <myself>
+name: Open new assignement [Task-1] and assign it to <myself>
 about: "\U0001F516 Multiplication Table up to 10. Write new app and commit changes
   to the parent repo."
 title: "[Task-1 Assignement]"
